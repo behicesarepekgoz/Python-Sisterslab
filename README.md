@@ -1,1 +1,1 @@
-# Python-Sisterslab Ödevler
+# Python-Sisterslab Homeworks
